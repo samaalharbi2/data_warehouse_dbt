@@ -1,10 +1,11 @@
-# Sales Analytics Pipeline (dbt + Snowflake)
+# dbt + Snowflake Project
 
 ## 🚀 Project Overview
-This project is a **data pipeline and analytics workflow** built using **dbt** and **Snowflake**.  
-The pipeline extracts raw data, transforms it into clean, structured tables, and prepares it for analytical insights.
+This is a **data modeling and transformation project** built using **dbt** and **Snowflake**.  
+The project demonstrates how to structure a data pipeline, create staging and analytical models, and validate data quality.
 
 **Key objectives:**
-- Build a scalable and maintainable ELT pipeline.
-- Transform raw data into staging (`stg_*`) and analytical (`fct_*`, `dim_*`) tables.
-- Ensure data quality with dbt tests (unique, not_null, etc.).
+- Learn and implement dbt models on Snowflake.
+- Transform raw tables into staging (`stg_*`) and analytical tables (`my_*_dbt_model`).
+- Apply dbt tests to ensure data quality (unique, not_null, accepted_values).
+- Gain hands-on experience with Snowflake SQL and dbt workflow.
