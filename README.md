@@ -1,7 +1,7 @@
 # dbt + Snowflake Project
 
 ## 🚀 Project Overview
-This is a **data modeling and transformation project** built using **dbt** and **Snowflake**.  
+ 
 The project demonstrates how to structure a data pipeline, create staging and analytical models, and validate data quality.
 
 **Key objectives:**
